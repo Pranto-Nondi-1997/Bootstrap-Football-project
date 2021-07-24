@@ -4,3 +4,15 @@
     width: 90%;
     height: 80%;
 }
+
+
+/* main part start here */
+
+
+/* section 1 start here */
+
+.card-shadow {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
